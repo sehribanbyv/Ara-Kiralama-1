@@ -1,0 +1,9 @@
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\bin\Debug\AracKiralamaLib.dll
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\bin\Debug\AracKiralamaLib.pdb
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\obj\Debug\AracKiralamaLib.csproj.AssemblyReference.cache
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\obj\Debug\AracKiralamaLib.csproj.CoreCompileInputs.cache
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\obj\Debug\AracKiralamaLib.dll
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\obj\Debug\AracKiralamaLib.pdb
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaLib\obj\Debug\AracKira.79F8B215.Up2Date

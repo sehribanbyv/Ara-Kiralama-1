@@ -1,0 +1,15 @@
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\AracKiralamaUygulamasi.exe.config
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\AracKiralamaUygulamasi.exe
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\AracKiralamaUygulamasi.pdb
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.Form1.resources
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.Properties.Resources.resources
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.exe
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKiralamaUygulamasi.pdb
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\AracKiralamaLib.dll
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\AracKiralamaLib.pdb
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\obj\Debug\AracKira.5A7B957C.Up2Date
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\umut_\source\repos\AracKiralamaUygulamasi\AracKiralamaUygulamasi\bin\Debug\System.Configuration.ConfigurationManager.xml
